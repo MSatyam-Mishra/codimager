@@ -21,8 +21,11 @@ To add a touch of personal style, users can modify the color of the title bar bu
 ![InVideo---Online-Video-Editor-Make-professional-videos-within-minutes(1)](https://github.com/MSatyam-Mishra/codimager/assets/12216430/b7264c10-ab4e-45bb-b420-e3c9130fb686)
 
 ```
-With Codimager, developers can [transform their code into attractive images](https://codimager.web.app/) that captivate attention, encourage discussion, and foster collaboration within the developer community. So, why settle for plain text when you can create stunning code images with Codimager and take your social media presence to the next level.
+With Codimager, developers can transform their code into attractive images that captivate attention, encourage discussion,
+and foster collaboration within the developer community. So, why settle for plain text when you can create stunning
+code images with Codimager and take your social media presence to the next level.
 ```
+
 
 Try Codimager today and unlock the potential of your code-sharing experience!
 
