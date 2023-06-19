@@ -29,4 +29,6 @@ code images with Codimager and take your social media presence to the next level
 
 Try Codimager today and unlock the potential of your code-sharing experience!
 
+For more details read this blog : [Codimager: Transforming Code into Attractive Images for Social Media Sharing](https://medium.com/@satyam12295/codimager-transforming-code-into-attractive-images-for-social-media-sharing-c0044fa5dc68)
+
 
